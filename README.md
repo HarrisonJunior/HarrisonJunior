@@ -1,6 +1,10 @@
 <div align="center" bgcolor="#000000">
     <img src="logo_git.svg" width="100%" height="100%" alt="css-in-readme">
 </div>
+<br/>
+<a href="https://www.linkedin.com/in/harrison-j%C3%BAnior-13230b137"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:harrison.junior1994@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<br/><br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,7 +39,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<br/>
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 
 #### 🛠 &nbsp; IDEs
@@ -43,9 +48,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
-<br/>
-<br/>
-<a href="https://www.linkedin.com/in/harrison-j%C3%BAnior-13230b137"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:harrison.junior1994@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <br/><br/><br/><br/><br/><br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarrisonJunior&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
